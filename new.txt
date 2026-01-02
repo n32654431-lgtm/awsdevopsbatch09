@@ -1,1 +1,2 @@
-modifing the new.txt to understand the merge conflict
+we are the learing the cherry pick concept
+
